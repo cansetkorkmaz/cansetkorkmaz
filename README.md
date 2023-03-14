@@ -5,7 +5,7 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/canset korkmaz](https://www.linkedin.com/in/canset-korkmaz-4489851bb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canset korkmaz" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/canset-korkmaz-4489851bb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canset korkmaz" height="30" width="40" /></a>
 <a href="https://medium.com/@cansetkorkmaz" target="blank"><img align="center" src=" https://ham.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cansetkorkmaz" height="30" width="40" /></a>
 </p>
 
